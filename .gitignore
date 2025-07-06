@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Model files
+*.gguf
+*.pt
+*.h5
+*.pkl
+*.bin
+*.lib
+*.dll
+*.so
+*.pyd
+
+# Cache & misc
+__pycache__/
+*.log
+.ipynb_checkpoints/
