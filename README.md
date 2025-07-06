@@ -159,3 +159,10 @@ streamlit run app.py
 * Use a smaller quantized model (e.g., Q4, Q2)
 * Lower chunk_size and k settings
 
+### Project Screenshot
+![Screenshot 2025-07-06 130459](https://github.com/user-attachments/assets/2fb73ec1-dde3-452f-97d9-50c643619461)
+![Screenshot 2025-07-06 130444](https://github.com/user-attachments/assets/2f54f720-ed01-492e-87a5-8153bddf39cc)
+![Screenshot 2025-07-06 130405](https://github.com/user-attachments/assets/17f6e29d-f300-4897-9ca5-bb5ef0e49e5a)
+![Screenshot 2025-07-06 130342](https://github.com/user-attachments/assets/ce724f92-ea7f-4576-bbfb-3d9b83d61dcb)
+
+
